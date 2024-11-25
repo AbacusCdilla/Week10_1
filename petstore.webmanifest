@@ -1,0 +1,15 @@
+{
+"name": "My Pet Store PWA",
+"short_name": "mypetstore",
+"description" : "A Progressive Web App for pet lovers.",
+"icons": [
+    {
+        "src": "images/icon-521.png",
+        "sizes": "521x521",
+        "type": "image/png"
+    }
+],
+"start_url": "index.html",
+"display": "fullscreen",
+"background_color": "#B12A34"
+}
